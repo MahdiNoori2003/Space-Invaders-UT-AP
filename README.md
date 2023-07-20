@@ -4,7 +4,7 @@ This is a SDL based c++ game with contribution to the original retro game.
 The project has been developed based on oop concepts in c++ for an assignment in AP course in University of Tehran.
 
 # Table of Contents
-* [Requirements](#requirements)
+* [Requirements](requirements)
 * [Usage](#usage)
 * [Credits](#credits)
 * [Contact](#contact)
@@ -33,7 +33,7 @@ Also you need to install RSDL as well which you can get from here:
 4. Enjoy 🎮
 
 ## Credits
-* [Mahdi Noori](https://choosealicense.com)
+* [Mahdi Noori](https://github.com/MahdiNoori2003)
 
 ## contact
-Contact information for the project maintainer, including email and social media links if applicable.
+* [hitking2007@gmail.com]()
