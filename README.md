@@ -2,6 +2,9 @@
 This is a SDL based c++ game with contribution to the original retro game.
 <br>
 The project has been developed based on oop concepts in c++ for an assignment in AP course in University of Tehran.
+<div align="center">
+    <img src="images/game.png" alt="Game" width="250" height="200">
+</div>
 
 # Table of Contents
 * [Requirements](#requirements)
@@ -19,7 +22,7 @@ Also you need to install RSDL as well which you can get from here:
 ## Usage
 1. Clone the repo
  ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/MahdiNoori2003/Space-Invaders-UT-AP.git
    ```
 2. Open terminal in folder and Make the ``.out`` file using make command :
   ```sh
