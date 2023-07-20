@@ -4,7 +4,7 @@ This is a SDL based c++ game with contribution to the original retro game.
 The project has been developed based on oop concepts in c++ for an assignment in AP course in University of Tehran.
 
 # Table of Contents
-* [Requirements](requirements)
+* [Requirements](#requirements)
 * [Usage](#usage)
 * [Credits](#credits)
 * [Contact](#contact)
