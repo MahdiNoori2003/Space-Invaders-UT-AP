@@ -38,5 +38,5 @@ Also you need to install RSDL as well which you can get from here:
 ## Credits
 * [Mahdi Noori](https://github.com/MahdiNoori2003)
 
-## contact
+## Contact
 * [hitking2007@gmail.com]()
