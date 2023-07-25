@@ -1,0 +1,16 @@
+3 4
+3
+.ES.
+E..M
+....
+Easy
+---
+ES.E
+.M..
+....
+Medium
+---
+EES.
+EE.M
+....
+Hard
